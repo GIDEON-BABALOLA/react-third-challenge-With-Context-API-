@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Uber",
+      "datetime": "April 06, 2024 8:52:33 PM",
+      "body": "Tayo Aina Was An Uber Taxi Driver"
+    },
+    {
+      "id": 4,
+      "title": "Instagram",
+      "datetime": "April 06, 2024 8:52:12 PM",
+      "body": "Facebook Bought Instagram"
+    }
+  ]
+}
